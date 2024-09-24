@@ -1,0 +1,15 @@
+we are designing a rest api
+we get the data from  mokaroo
+
+
+
+GET /user  - list all users
+GET /user/1 get the user with id 1
+GET /user/2 get the user with id 2
+
+
+POST /user - create a new user
+
+PATCH /user/1 =edit the user with id 1
+
+DELETE /users/1 -del the user with id 1
